@@ -71,12 +71,7 @@ namespace geode::cocos {
                     }
                 }
             }
-        }
-        auto btnSpriteTry = getFrameName(getChild(node, 0));
-        if (
-            btnSpriteTry != "NIL_NODE"
-            and btnSpriteTry != "CANT_GET_FRAME_NAME"
-            ) return btnSpriteTry;
+		}
         return "CANT_GET_FRAME_NAME";
     }
     inline std::string getTypeName(CCObject* object) {
