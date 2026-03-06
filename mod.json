@@ -1,20 +1,20 @@
 {
-	"geode": "4.2.0",
+	"geode": "5.3.0",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
 	},
 	"id": "user95401.jelly_cube",
 	"name": "Jelly Cube",
-	"version": "v1.1.3",
-	"developer": "user95401",
+	"version": "v1.1.4",
+	"developer": "lil2kki",
 	"description": "platformer jump animation plays in normal mode at some events",
 	"tags": [ "gameplay", "offline", "enhancement", "customization" ],
 	"links": {
 		"community": "https://discord.gg/6SxAbk3bTA",
-		"homepage": "https://t.me/user95401_channel",
-		"source": "https://github.com/user95401/Jelly-Cube"
+		"homepage": "https://t.me/lil2kki_ch",
+		"source": "https://github.com/lil2kki/Jelly-Cube"
 	}
 }
